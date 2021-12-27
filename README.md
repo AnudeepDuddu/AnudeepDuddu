@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnudeepDuddu
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Exploring Technology and Technological challenges
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me anud.d@hotmail.com
